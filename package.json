@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-datocms-demo",
-  "description": "Gatsby DatoCMS creative portfolio demo",
+  "name": "lizweaveologist",
+  "description": "Personal website",
   "version": "1.0.0",
-  "author": "Stefano Verna <s.verna@datocms.com>",
+  "author": "Kirimi <matthewscurtis.dev81@gmail.com>",
   "dependencies": {
     "dotenv": "^8.1.0",
     "gatsby": "^2.24.81",
